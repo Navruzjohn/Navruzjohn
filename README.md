@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Navruz (@Navruzjohn). I am 25.
 - 👀 I’m interested in HTML, CSS, Javascript.
 - 🌱 I’m currently learning Web-development.
-- 💞️ I’m looking to collaborate on Web-developers.
+- 💞️ I’m looking to collaborate on Web-development.
 - 📫 How to reach me: againnavroz1996@gmail.com
 
 <!---
